@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-boxc;
+}
+
+:root{
+    --neutro01: #f8f8f8;
+    --neutro02: #2a2a2a;
+    --popups: #3B3B3B;
+    --alerta: #F8BD00;
+    --info: #0D72BA;
+    --padrao01: #127BC5;
+    --padrao02: #4EB551;
+}
+
+body{
+    background-color: var(--neutro01);
+    font-family: 'Rubik', sans-serif; 
+    color: black;
+}
