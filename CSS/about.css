@@ -1,0 +1,99 @@
+body{
+    background-color: var(--neutro01);
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0px;
+    width: 100%;
+    padding: 20px;
+    background-color: transparent;
+    z-index: 1000;
+    font-family: 'Rubik', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.menu-btn{
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    width: 25px;
+    height: 25px;
+}
+
+.menu-btn img{
+    width: 25px;
+    height: 25px;
+    display: block;
+}
+
+.logo{
+    top: 0;
+    left: 0;
+    filter: brightness(0);
+
+}
+
+.site-name{
+    font-family: 'Rubik', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+}
+
+.brand{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    text-decoration: none;
+}
+
+.about-content{
+    padding-top: 120px;
+    display: flex;
+    min-height: 100vh;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    width: 90%;
+}
+
+.section-title{
+    font-family: 'Rubik', sans-serif;
+    color:black;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 43px;
+}
+
+.section-text{
+    font-family: 'Rubik', sans-serif;
+    color:black;
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hero-mascot{
+    width: 500px;
+    height: auto;
+
+    margin-top: 40px;
+}
