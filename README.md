@@ -56,10 +56,9 @@ Oferecer uma plataforma educativa capaz de despertar a curiosidade dos usuários
 
 ## 🤓☝️ Tecnologias Utilizadas
 
-### Front-end
-
-- ´HTML5´
-- ´CSS3´
+### Front-end: 
+- **Estrutura:** `HTML`
+- **Estilização:** `CSS`
 
 ### Futuras Implementações
 
