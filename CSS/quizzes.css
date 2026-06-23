@@ -1,0 +1,154 @@
+body{
+    background-color: var(--neutro01);
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+
+header{
+    position: static;
+    width: 100%;
+    padding: 20px;
+    background-color: transparent;
+    z-index: 1000;
+
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.menu-btn{
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    width: 25px;
+    height: 25px;
+}
+
+.menu-btn img{
+    width: 25px;
+    height: 25px;
+    display: block;
+}
+
+.logo{
+    filter: brightness(0);
+}
+
+.site-name{
+    font-family: 'Rubik', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+}
+
+.brand{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+}
+
+.quizzes-content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.content{
+    width: 100%;
+    max-width: 1200px;
+    padding: 120px 20px 80px;
+}
+
+.section-title{
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.section-text{
+    font-size: 20px;
+    color: #333;
+    max-width: 700px;
+    margin-bottom: 40px;
+}
+
+.quiz-layout{
+    display: flex;
+    gap: 50px;
+    align-items: flex-start;
+}
+
+.daily-quiz{
+    flex: 2;
+}
+
+.dayQuiz-title{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.quiz-card{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 4px 4px 25px rgba(0,0,0,0.2);
+}
+
+.mascot{
+    width: 120px;
+    height: auto;
+}
+
+.quiz-frame{
+    background: white;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.quiz-img{
+    width: 300px;
+    border-radius: 10px;
+    display: block;
+}
+
+.other-quizes{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.rec-title{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.rec-list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    font-size: 18px;
+    line-height: 2;
+}
+
+/* mascote lateral */
+.mascot-rec{
+    width: 140px;
+    height: auto;
+    margin-top: 10px;
+}
