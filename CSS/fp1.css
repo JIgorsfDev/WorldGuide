@@ -1,0 +1,149 @@
+body{
+    background-color: var(--neutro02);
+    font-family: 'Rubik', sans-serif;
+    color: black;
+    margin: 0;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    background-color: transparent;
+    z-index: 1000;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px;
+
+    padding-right: 60px;
+}
+
+.logo{
+    top: 0;
+    left: 0;
+
+}
+
+.site-name{
+    font-family: 'Rubik', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+
+    color: white;
+}
+
+h1{
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.fp1-page{
+    display: flex;
+    min-height: 100vh;
+}
+
+.fp1-form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    color: white;
+}
+
+label{
+    font-size: 28px;
+    font-weight: 700; 
+}
+
+.fp1-container{
+    width: 600px;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 20px;
+}
+
+input{
+    box-sizing: border-box;
+    width: 428px;
+    height: 74px;
+    border: 1px solid black;
+    border-radius: 7px;
+
+    padding: 0 15px;
+
+    font-size: 20px;
+}
+
+.btn{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 28px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    border-radius: 100px;  
+
+    gap: 20px;
+}
+
+.btn-submit{
+    width: 461px;
+    height: 65px;
+    background-color: var(--padrao01);
+    margin-top: 120px;
+}
+
+p{
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+    color: var(--info);
+    max-width: 450px;
+    margin-top: 50px;
+}
+
+
+.left-side{
+    width: 50%;
+    background-color: #2A2A2A;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-side{
+    width: 50%;
+    position: relative;
+}
+
+
+
+.hero-bkg{
+    width: 100%;
+    height: 100vh;
+
+    object-fit: cover;
+}
+
+.hero-mascot{
+    position: absolute;
+    bottom: 0;
+    left: 165px;
+    width: 500px;
+    height: auto;
+}
