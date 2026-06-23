@@ -12,19 +12,19 @@ O World Guide é um projeto web desenvolvido no contexto da disciplina de **Desi
 
 ---
 
-## 🌍 Raimundo
+## 🌍 raiMundo
 
-O World Guide conta com um mascote próprio chamado **Raimundo**, um pequeno planeta antropomorfizado que acompanha os usuários durante toda a experiência na plataforma.
+O World Guide conta com um mascote próprio chamado **raiMundo**, um pequeno planeta antropomorfizado que acompanha os usuários durante toda a experiência na plataforma.
 
-Raimundo é curioso, criativo, divertido e extremamente interessado em aprender sobre o mundo. No entanto, ele também é bastante ingênuo. Como muitas pessoas, passa tempo demais consumindo conteúdos rápidos e acaba absorvendo informações superficiais, estereótipos e generalizações sobre diferentes países e culturas.
+raiMundo é curioso, criativo, divertido e extremamente interessado em aprender sobre o mundo. No entanto, ele também é bastante ingênuo. Como muitas pessoas, passa tempo demais consumindo conteúdos rápidos e acaba absorvendo informações superficiais, estereótipos e generalizações sobre diferentes países e culturas.
 
-Por esse motivo, Raimundo representa o próprio usuário durante a jornada de aprendizado. Ele faz perguntas, demonstra curiosidade e muitas vezes apresenta percepções incompletas que servem como ponto de partida para descobrir informações mais precisas e contextualizadas.
+Por esse motivo, raiMundo representa o próprio usuário durante a jornada de aprendizado. Ele faz perguntas, demonstra curiosidade e muitas vezes apresenta percepções incompletas que servem como ponto de partida para descobrir informações mais precisas e contextualizadas.
 
-Atualmente, Raimundo atua principalmente como um elemento visual e guia de navegação, oferecendo dicas e orientações ao usuário. Futuramente, o personagem receberá animações, interações educativas, vídeos explicativos e elementos de gamificação inspirados em plataformas de aprendizagem modernas, tornando-se uma parte ainda mais importante da identidade do World Guide.
+Atualmente, raiMundo atua principalmente como um elemento visual e guia de navegação, oferecendo dicas e orientações ao usuário. Futuramente, o personagem receberá animações, interações educativas, vídeos explicativos e elementos de gamificação inspirados em plataformas de aprendizagem modernas, tornando-se uma parte ainda mais importante da identidade do World Guide.
 
-Mais do que um mascote, Raimundo representa a ideia central do projeto: aprender sobre o mundo exige curiosidade, mas também exige ir além dos estereótipos para compreender a diversidade cultural de forma mais completa.
+Mais do que um mascote, raiMundo representa a ideia central do projeto: aprender sobre o mundo exige curiosidade, mas também exige ir além dos estereótipos para compreender a diversidade cultural de forma mais completa.
 
-> **Observação:** Atualmente, algumas representações visuais do Raimundo foram produzidas com auxílio de ferramentas de inteligência artificial. Futuras versões do projeto incluem a criação de artes próprias, animações e maior integração do personagem à plataforma.
+> **Observação:** Atualmente, as representações visuais do raiMundo foram produzidas com auxílio de ferramentas de inteligência artificial, sou um péssimo desenhista :). Futuras versões do projeto incluem a criação de artes digitais próprias, animações e maior integração do personagem à plataforma.
 
 ---
 
