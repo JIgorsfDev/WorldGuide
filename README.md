@@ -8,7 +8,7 @@ O projeto surgiu da percepção de que muitas vezes é difícil encontrar um loc
 
 Além das informações educativas, o projeto procura estimular a curiosidade e o interesse pelo mundo, incentivando os usuários a conhecer diferentes culturas, tradições, idiomas e características geográficas de diversos países.
 
-O World Guide é um projeto web desenvolvido no contexto da disciplina de **Design Web**, ministrada pela professora **Ana Beatriz Moreira Campos Fontenele**, no **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) – Campus Tianguá**, como atividade acadêmica do **5º semestre do curso de Bacharelado em Ciência da Computação.**
+O World Guide é um projeto web em desenvolvimento no contexto da disciplina de **Design Web**, ministrada pela professora **Ana Beatriz Moreira Campos Fontenele**, no **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) – Campus Tianguá**, como atividade acadêmica do **5º semestre do curso de Bacharelado em Ciência da Computação.**
 
 ---
 
