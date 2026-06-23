@@ -47,12 +47,12 @@ h1{
     text-align: center;
 }
 
-.register-page{
+.login-page{
     display: flex;
     min-height: 100vh;
 }
 
-.register-form{
+.login-form{
     display: flex;
     flex-direction: column;
     gap: 10px;
