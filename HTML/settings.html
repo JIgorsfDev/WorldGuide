@@ -1,1 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Configurações</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../css/global.css">
+    <link rel="stylesheet" href="../css/settings.css">
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <button class="menu-btn">
+            <img src="../assets/icons/menu.png" alt="Menu">
+        </button>
+
+        <a href="home.html" class="brand">
+            <img class="logo" src="../assets/icons/globe.png" alt="Logo">
+            <span class="site-name">WorldGuide</span>
+        </a>
+    </nav>
+</header>
+
+<main class="settings-content">
+
+    <div class="content">
+
+        <div class="page-header">
+            <h1 class="page-title">Configurações</h1>
+            <p class="page-description">Personalize o WorldGuide de acordo com sua vontade.</p>
+        </div>
+
+        <div class="settings-wrapper">
+
+            <section class="settings-card profile-settings">
+
+                <div class="profile-top">
+
+                    <div class="profile-mascot">
+                        <img src="../assets/raiMundo/raiConfig.png" alt="RaiMUNDO" class="mascot">
+                    </div>
+
+                    <div class="profile-title">
+                        <h2 class="section-title">Perfil</h2>
+
+                        <div class="profile-user">
+                            <img src="../assets/icons/user.png" alt="Ícone de perfil" class="user-icon">
+
+                            <form class="profile-form">
+                                <label for="username">Usuário</label>
+                                <input type="text" id="username" name="username" placeholder="Generivaldo da Silva">
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="profile-info">
+
+                    <div class="info-item">
+                        <h3>Email:</h3>
+                        <p>generivaldodasilva@email.com</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h3>Senha:</h3>
+                        <p>Gerencie suas senhas.</p>
+                        <button type="button" class="btn-change-password">Alterar senha</button>
+                    </div>
+
+                </div>
+
+            </section>
+
+            <section class="settings-card theme-settings">
+
+                <h2 class="section-title">Aparência</h2>
+
+                <form class="theme-form">
+
+                    <label>
+                        <input type="radio" name="theme" checked>
+                        Padrão
+                    </label>
+
+                    <label>
+                        <input type="radio" name="theme">
+                        Continentes Dinâmicos
+                    </label>
+
+                    <label>
+                        <input type="radio" name="theme">
+                        All Blue
+                    </label>
+
+                    <label>
+                        <input type="radio" name="theme">
+                        All Green
+                    </label>
+
+                    <label>
+                        <input type="radio" name="theme">
+                        Modo Escuro
+                    </label>
+
+                </form>
+
+            </section>
+
+            <section class="settings-card accessibility-settings">
+
+                <h2 class="section-title">Acessibilidade</h2>
+
+                <form class="accessibility-form">
+
+                    <label>
+                        <input type="radio" name="accessibility">
+                        Alto contraste
+                    </label>
+
+                    <label>
+                        <input type="radio" name="accessibility">
+                        Fonte ampliada
+                    </label>
+
+                    <label>
+                        <input type="radio" name="accessibility">
+                        TalkBack
+                    </label>
+
+                    <label>
+                        <input type="radio" name="accessibility">
+                        Paleta de cores adaptada
+                    </label>
+
+                </form>
+
+            </section>
+
+            <section class="settings-card info-settings">
+
+                <h2 class="section-title">Informações</h2>
+
+                <div class="info-item">
+                    <img src="../assets/icons/extern.png" alt="Informações" class="extern-icon">
+                    <p>Termos de uso e responsabilidade.</p>
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+</main>
+
+</body>
+
+</html>
