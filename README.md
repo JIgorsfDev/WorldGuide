@@ -60,6 +60,16 @@ Oferecer uma plataforma educativa capaz de despertar a curiosidade dos usuários
 - **Estrutura:** `HTML`
 - **Estilização:** `CSS`
 
+---
+
+## 🎨 Protótipo
+
+Protótipo desenvolvido no Figma:
+
+🔗 Link: https://www.figma.com/design/bb7DlUa3Eo7pvZaw321bQZ/WorldGuide?node-id=0-1&t=ifqvsH673z1tS9QU-1
+
+---
+
 ### Futuras Implementações
 
 - JavaScript
