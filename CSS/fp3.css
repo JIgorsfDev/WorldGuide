@@ -44,6 +44,7 @@ h1{
     font-size: 48px;
     font-weight: 700;
     margin-top: 0px;
+    margin-right: 30px;
     text-align: center;
 }
 
@@ -119,6 +120,9 @@ input{
 .right-side{
     width: 50%;
     position: relative;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
 }
 
 
