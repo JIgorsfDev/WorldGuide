@@ -1,3 +1,5 @@
+### OBservação: Eu baguncei sem querer as telas de início, registro e termos em algum commit, como tinha de entregar as telas para uma atividade da disciplina, e não tive tempo hábíl para corrigir, deixei quebrado mesmo!
+
 # 🌎 World Guide
 
 ## Conhecer o mundo nunca foi tão simples.
